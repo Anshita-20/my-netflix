@@ -1,9 +1,6 @@
+import Body from "../src/components/Body"
 function App() {
-  return (
-    <div className="text-lg font-bold">
-      HI
-    </div>
-  );
+  return < Body/>
 }
 
 export default App;
